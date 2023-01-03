@@ -2,6 +2,7 @@
 
 # **Description**
 It's the rock paper scissors game we all grew up with and loved. 
+
 Basic Rules:
   1. Rock beats Scissors
   2. Paper beats Rock
