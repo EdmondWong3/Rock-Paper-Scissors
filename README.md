@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 
 # **Description**
-It's the rock paper scissors game we all grew up with and loved. 
+It's the rock-paper-scissors game we all grew up with and loved. 
 
 Basic Rules:
   1. Rock beats Scissors
